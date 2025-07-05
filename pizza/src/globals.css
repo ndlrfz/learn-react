@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+#root {
+    background-color: #f0f0f0;
+    font-family: sans-serif;
+    min-height: 100vh;
+    /* Ensures the root fills the viewport height */
+}
